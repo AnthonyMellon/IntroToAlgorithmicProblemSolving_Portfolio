@@ -1,0 +1,15 @@
+[submodule "IntroGameDev1"]
+	path = IntroGameDev1
+	url = https://github.com/AnthonyMellon/IntroGameDev1.git
+[submodule "IntroGameDev2"]
+	path = IntroGameDev2
+	url = https://github.com/AnthonyMellon/IntroGameDev2.git
+[submodule "IntroGameDev3"]
+	path = IntroGameDev3
+	url = https://github.com/AnthonyMellon/IntroGameDev3.git
+[submodule "introGameDev4"]
+	path = introGameDev4
+	url = https://github.com/AnthonyMellon/IntroGameDev4.git
+[submodule "IntroGameDevTicTacToe"]
+	path = IntroGameDevTicTacToe
+	url = https://github.com/AnthonyMellon/IntroGameDevTicTacToe.git
